@@ -1,3 +1,3 @@
 # DAY 1 - 02-05-23
 **Inauguration**<br>
- 	![Inauguration Picture](image.jpg)
+ 	![Inauguration Picture](img/123.jpeg)
