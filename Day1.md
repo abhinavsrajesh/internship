@@ -25,4 +25,16 @@ Tinkercad also allows users to simulate the behavior of their circuits in real-t
 
 Additionally, Tinkercad has a built-in programming environment based on the Arduino programming language that allows users to write and upload code to their circuits. This feature can be used to control the behavior of the circuit and add additional functionality.
 
-Overall, Tinkercad is a powerful tool for simulating various circuits and experimenting with different designs, making it an excellent resource for anyone interested in electronics and circuit design.
+Overall, Tinkercad is a powerful tool for simulating various circuits and experimenting with different designs, making it an excellent resource for anyone interested in electronics and circuit design.<br>
+![Tinker Cad circuit simulation](img/cir1.png)<br>
+*Simulation page of Tinker cad*<br><br><br>
+**Simulation of ardino projects on Tinker cad**<br><br>
+Tinkercad is an online platform that allows users to create and simulate electronic circuits, including Arduino-based circuits, without the need for physical hardware. 
+
+To simulate an Arduino on Tinkercad, users can select an Arduino board from the platform's built-in library and drag and drop it onto the circuit canvas. From there, they can add other components such as resistors, LEDs, sensors, and motors and connect them to the board using virtual wires.
+
+Tinkercad also includes a built-in programming environment based on the Arduino programming language, which allows users to write and upload code to their simulated Arduino board. The code can be tested and debugged in the Tinkercad simulation environment, which provides real-time feedback on the behavior of the circuit.
+
+Simulating an Arduino on Tinkercad can be a useful tool for learning and experimenting with electronics and programming, as it allows users to test their designs and code without the risk of damaging physical hardware.<br>
+![Ardino project simulation on Tinker cad](img/234.png)<br>
+
