@@ -36,5 +36,7 @@ To simulate an Arduino on Tinkercad, users can select an Arduino board from the 
 Tinkercad also includes a built-in programming environment based on the Arduino programming language, which allows users to write and upload code to their simulated Arduino board. The code can be tested and debugged in the Tinkercad simulation environment, which provides real-time feedback on the behavior of the circuit.
 
 Simulating an Arduino on Tinkercad can be a useful tool for learning and experimenting with electronics and programming, as it allows users to test their designs and code without the risk of damaging physical hardware.<br>
-![Ardino project simulation on Tinker cad](img/ard.png)<br>
+![Ardino project simulation on Tinker cad](img/ard1.png)<br>
+*Simulation of traffic signal using ardino on Tinker cad*<br><br>
+# DAY 3 - 04-05-23
 
