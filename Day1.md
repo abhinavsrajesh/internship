@@ -15,7 +15,7 @@ Tinkercad also provides a wide range of tools and features, including measuremen
 
 Overall, Tinkercad is a great option for anyone who is new to 3D modeling or wants to quickly create and print 3D objects without having to learn complex software.<br>
 ![Tinker Cad](img/234.png)<br>
-*Front page of Tinker Cad*<br><br><br>
+*[Front page of Tinker Cad](https://www.tinkercad.com/dashboard?collection=designs)*<br><br><br>
 **Simulation of various circuits**<br><br>
 Tinkercad is an online platform that allows users to design, create, and simulate various electronic circuits. It provides a wide range of components such as resistors, capacitors, diodes, transistors, LEDs, and sensors that can be used to create circuits for different applications.
 
@@ -27,7 +27,7 @@ Additionally, Tinkercad has a built-in programming environment based on the Ardu
 
 Overall, Tinkercad is a powerful tool for simulating various circuits and experimenting with different designs, making it an excellent resource for anyone interested in electronics and circuit design.<br>
 ![Tinker Cad circuit simulation](img/cir1.png)<br>
-*Simulation page of Tinker cad*<br><br><br>
+*[Simulation page of Tinker cad](https://www.tinkercad.com/things/jpbTXTyItAS)*<br><br><br>
 **Simulation of ardino projects on Tinker cad**<br><br>
 Tinkercad is an online platform that allows users to create and simulate electronic circuits, including Arduino-based circuits, without the need for physical hardware. 
 
@@ -37,6 +37,6 @@ Tinkercad also includes a built-in programming environment based on the Arduino 
 
 Simulating an Arduino on Tinkercad can be a useful tool for learning and experimenting with electronics and programming, as it allows users to test their designs and code without the risk of damaging physical hardware.<br>
 ![Ardino project simulation on Tinker cad](img/ard1.png)<br>
-*Simulation of traffic signal using ardino on Tinker cad*<br><br>
+*[Simulation of traffic signal using ardino on Tinker cad](https://www.example.com)*<br><br>
 # DAY 3 - 04-05-23
 
