@@ -37,7 +37,7 @@ Tinkercad also includes a built-in programming environment based on the Arduino 
 
 Simulating an Arduino on Tinkercad can be a useful tool for learning and experimenting with electronics and programming, as it allows users to test their designs and code without the risk of damaging physical hardware.<br>
 ![Ardino project simulation on Tinker cad](img/ard1.png)<br>
-*[Simulation of traffic signal using ardino on Tinker cad](https://www.example.com)*<br><br>
+*[Simulation of traffic signal using ardino on Tinker cad](https://www.tinkercad.com/things/1vfZ8E9TPaq)*<br><br>
 # DAY 3 - 04-05-23
 More project simulations are done today,<br>
 **projects**:[Traffic light using button on ardino](https://www.tinkercad.com/things/2k1oGcnvp35)<br>
