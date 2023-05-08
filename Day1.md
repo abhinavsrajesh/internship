@@ -62,4 +62,6 @@ Overall, Python is a powerful and versatile programming language that is easy to
 
 Today we did a self-introduction using Python program<br>
 ### Intro.py <br>
-[intro.py](Img/r1.png)
+![intro.py](img/r1.png)<br>
+### Output <br>
+![Output](img/r2.png)<br>
