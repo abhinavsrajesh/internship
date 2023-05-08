@@ -65,3 +65,8 @@ Today we did a self-introduction using Python program<br>
 ![intro.py](img/r1.png)<br>
 ### Output <br>
 ![Output](img/r2.png)<br>
+## program to find the largest of three numbers
+### largest of three numbers
+![large.py](img/p1.png)<br>
+### Output <br>
+![Output](img/p2.png)<br>
