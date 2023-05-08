@@ -42,3 +42,22 @@ Simulating an Arduino on Tinkercad can be a useful tool for learning and experim
 More project simulations are done today,<br>
 **projects**:[Traffic light using button on ardino](https://www.tinkercad.com/things/2k1oGcnvp35)<br>
              [Displaying "GPTC CHELAKKARA" on LCD](https://www.tinkercad.com/things/hduM5454fmF)<br>
+# DAY 4 - 05-05-23
+# DAY 5 - 08-05-23<br>
+## Introduction to python<br>
+
+
+Python is a popular, high-level programming language that was first released in 1991. It was created by Guido van Rossum, who designed it to be simple, easy-to-read, and yet powerful. Python is known for its readability, flexibility, and ease of use, and it has become one of the most widely used programming languages in the world.
+
+One of the reasons for Python's popularity is that it has a wide range of uses. It is commonly used for web development, data analysis, scientific computing, machine learning, artificial intelligence, and many other fields. Python is also a favorite among beginner programmers because of its simplicity and ease of use.
+
+One of the defining features of Python is its use of indentation to delimit code blocks, rather than the more traditional use of curly braces or other delimiters. This makes Python code very easy to read and understand, even for those new to programming.
+
+Python is an interpreted language, meaning that code is executed directly, rather than being compiled into machine code beforehand. This makes Python very flexible and easy to use, as you can run code without the need for a compiler or complex build process.
+
+Python has a large and active community of developers, who have contributed many useful libraries and tools to the language. These libraries and tools help to extend Python's functionality, making it even more versatile and useful for a wide range of applications.
+
+Overall, Python is a powerful and versatile programming language that is easy to learn and use, making it an excellent choice for beginners and experienced programmers alike.<br><br>
+
+
+
