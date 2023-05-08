@@ -66,7 +66,7 @@ Today we did a self-introduction using Python program<br>
 ### Output <br>
 ![Output](img/r2.png)<br>
 ## program to find the largest of three numbers
-### largest of three numbers
+### largest of three numbers.py
 ![large.py](img/p1.png)<br>
 ### Output <br>
 ![Output](img/p2.png)<br>
